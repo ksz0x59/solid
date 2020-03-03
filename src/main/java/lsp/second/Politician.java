@@ -1,4 +1,4 @@
-package lsp;
+package lsp.second;
 
 public class Politician {
     String name;

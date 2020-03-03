@@ -1,6 +1,6 @@
-package lsp.ok;
+package lsp.second.ok;
 
-import lsp.Politician;
+import lsp.second.Politician;
 
 import java.util.ArrayList;
 import java.util.List;

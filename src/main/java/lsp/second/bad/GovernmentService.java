@@ -1,6 +1,6 @@
-package lsp.bad;
+package lsp.second.bad;
 
-import lsp.Politician;
+import lsp.second.Politician;
 
 import java.util.ArrayList;
 import java.util.List;

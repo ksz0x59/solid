@@ -1,8 +1,8 @@
-package lsp.bad;
+package lsp.second.bad;
 
 
-import lsp.HowDareYouException;
-import lsp.Politician;
+import lsp.second.HowDareYouException;
+import lsp.second.Politician;
 
 public class CorruptiblePolitician extends Politician {
 
